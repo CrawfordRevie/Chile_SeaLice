@@ -11,27 +11,41 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Sea Lice modelling in Chile
+## We have made this available
 
-- Bulleted
-- List
+- **Author 1**
+- Author 2
 
-1. Numbered
-2. List
+1. As an AnyLogic executable model
+2. As a _Shiny R_ app
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
-
+https://github.com/login
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CrawfordRevie/Chile_SeaLice/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+```
+
+# Sea Lice modelling in Chile
+## We have made this available
+
+- **Author 1**
+- Author 2
+
+1. As an AnyLogic executable model
+2. As a _Shiny R_ app
+
+
+
