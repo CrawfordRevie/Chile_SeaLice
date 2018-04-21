@@ -1,7 +1,7 @@
-# Sea Lice modelling in Chile
+# Sea lice modelling in Chile
 ### "Tool for predicting _Caligus rogercresseyi_ abundance on salt water salmon farms in Chile"
 
-- **S. St-Hilaire**, T. Patanasatienkul, J. Yu, A.B. Kristoffersen, H. Stryhn, C.W. Revie, R. Ibarra, A. Tello, G. McEwan
+- **S. St-Hilaire**, T. Patanasatienkul, J. Yu, A.B. Kristoffersen, H. Stryhn, C.W. Revie, R. Ibarra, A. Tello and G. McEwan
 
 The equations/statitical model discussed in this paper have been made available as:
 
