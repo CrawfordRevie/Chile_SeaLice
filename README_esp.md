@@ -1,4 +1,4 @@
-## [English Version] (https://crawfordrevie.github.io/Chile_SeaLice/)
+## [English Version](https://crawfordrevie.github.io/Chile_SeaLice/)
 # ESP Sea lice modelling in Chile
 ### ESP "Tool for predicting _Caligus rogercresseyi_ abundance on salt water salmon farms in Chile"
 
