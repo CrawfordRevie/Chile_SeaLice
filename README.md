@@ -3,10 +3,10 @@
 
 - S. St-Hilaire, T. Patanasatienkul, J. Yu, A.B. Kristoffersen, H. Stryhn, C.W. Revie, R. Ibarra, A. Tello and G. McEwan
 
-## The equations/statistical model discussed in this paper have been made available as an _AnyLogic_ <a href="https://cloud.anylogic.com/model/e25265dd-0ee2-45ef-b28e-3c075ae2c740?mode=DASH BOA RD" target="_blank"> app </a>
+### The equations developed in this paper have been made available as an <a href="https://cloud.anylogic.com/model/e25265dd-0ee2-45ef-b28e-3c075ae2c740?mode=DASH BOA RD" target="_blank"> _AnyLogic_ app </a>
 
 
-### Please Note:
+**Please Note:**
 
 - This model predicts the likely level of adult _C. rogercressyi_ on Atlantic salmon farms in Chile that have no neighbouring farms within 10km and a maximum of two neighbours within 20 km.
 
