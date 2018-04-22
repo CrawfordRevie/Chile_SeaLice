@@ -1,6 +1,18 @@
-I got some messages that this email (or at least the attachment) did not get delivered...   I have renamed the file attachment to be a txt - to 'fool' the email delivery systems (hopefully!).   However, this is still a ZIP file - so you just need to re-name the extension and un-zip it to see the screens, etc.
+## [English Version] (https://crawfordrevie.github.io/Chile_SeaLice/)
+# ESP Sea lice modelling in Chile
+### ESP "Tool for predicting _Caligus rogercresseyi_ abundance on salt water salmon farms in Chile"
 
-It would be good if someone could let me know how this goes at the 'other' end...
+- **S. St-Hilaire**, T. Patanasatienkul, J. Yu, A.B. Kristoffersen, H. Stryhn, C.W. Revie, R. Ibarra, A. Tello and G. McEwan
 
-Crawford.
-----------------------------------------------------------------------
+ESP - The equations/statitical model discussed in this paper have been made available as:
+
+1. An _AnyLogic_ executable [model](https://cloud.anylogic.com/model/e25265dd-0ee2-45ef-b28e-3c075ae2c740?mode=DASHBOARD)
+2. A _Shiny R_ <a href="https://cloud.anylogic.com/model/e25265dd-0ee2-45ef-b28e-3c075ae2c740?mode=DASHBOARD" target="_blank">app</a>
+
+### Please Note:
+
+- This model predicts the likely level of adult _C. rogercressyi_ on Atlantic salmon farms in Chile that have no neighbouring farms within 10km and a maximum of two neighbours within 20 km.
+
+- The model is only valid where the starting level of _C. rogercressyi_ is less than 1.55 adults. In addition it should only be applied when the fish are greater than 500g, the salinity is more than 25ppt and the water temperature is between 7 and 16 °C. 
+
+For more details on model assumptions and interpretation, please read the full paper (**preprint here**).
