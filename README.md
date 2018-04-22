@@ -5,8 +5,8 @@
 
 The equations/statitical model discussed in this paper have been made available as:
 
-1. An _AnyLogic_ executable [model](https://cloud.anylogic.com/model/e25265dd-0ee2-45ef-b28e-3c075ae2c740?mode=DASHBOARD)
-2. A _Shiny R_ <a href="https://cloud.anylogic.com/model/e25265dd-0ee2-45ef-b28e-3c075ae2c740?mode=DASHBOARD" target="_blank">app</a>
+- An _AnyLogic_ <a href="https://cloud.anylogic.com/model/e25265dd-0ee2-45ef-b28e-3c075ae2c740?mode=DASH BOA RD" target="_blank"> app </a>
+
 
 ### Please Note:
 
